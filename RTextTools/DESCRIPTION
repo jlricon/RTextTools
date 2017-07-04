@@ -1,7 +1,7 @@
 Package: RTextTools
 Type: Package
 Title: Automatic Text Classification via Supervised Learning
-Version: 1.4.0
+Version: 1.4.3
 Date: 2012-09-22
 Author: Timothy P. Jurka,  Loren Collingwood, Amber E. Boydstun, Emiliano Grossman, Wouter van Atteveldt
 Maintainer: Timothy P. Jurka <tpjurka@ucdavis.edu>
